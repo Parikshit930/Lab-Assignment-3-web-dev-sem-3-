@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Study Table",
+    "sku": "FURN-TB-012",
+    "category": "Furniture",
+    "price": 3999,
+    "quantity": 2,
+    "reorderLevel": 4,
+    "supplier": "IKEA India"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "sku": "FURN-CH-045",
+    "category": "Furniture",
+    "price": 6499,
+    "quantity": 3,
+    "reorderLevel": 5,
+    "supplier": "Godrej Interio"
+  },
+  {
+    "name": "Wooden Bookshelf",
+    "sku": "FURN-SH-088",
+    "category": "Furniture",
+    "price": 4999,
+    "quantity": 8,
+    "reorderLevel": 3,
+    "supplier": "Urban Ladder"
+  },
+  {
+    "name": "Wireless Mechanical Keyboard",
+    "sku": "ELEC-KB-201",
+    "category": "Electronics",
+    "price": 3499,
+    "quantity": 15,
+    "reorderLevel": 5,
+    "supplier": "Logitech"
+  },
+  {
+    "name": "Noise Cancelling Headphones",
+    "sku": "ELEC-HP-305",
+    "category": "Electronics",
+    "price": 8999,
+    "quantity": 25,
+    "reorderLevel": 8,
+    "supplier": "Sony"
+  },
+  {
+    "name": "27-inch 4K Gaming Monitor",
+    "sku": "ELEC-MN-410",
+    "category": "Electronics",
+    "price": 24999,
+    "quantity": 6,
+    "reorderLevel": 10,
+    "supplier": "Dell"
+  },
+  {
+    "name": "USB-C Multiport Hub",
+    "sku": "ELEC-HB-512",
+    "category": "Electronics",
+    "price": 1499,
+    "quantity": 50,
+    "reorderLevel": 15,
+    "supplier": "Anker"
+  },
+  {
+    "name": "Men's Cotton Casual Shirt",
+    "sku": "APPR-SH-101",
+    "category": "Apparel",
+    "price": 1299,
+    "quantity": 45,
+    "reorderLevel": 10,
+    "supplier": "Zara"
+  },
+  {
+    "name": "Women's Denim Jacket",
+    "sku": "APPR-JK-204",
+    "category": "Apparel",
+    "price": 1499,
+    "quantity": 33,
+    "reorderLevel": 15,
+    "supplier": "Levi's"
+  },
+  {
+    "name": "Gel Pen Pack of 15",
+    "sku": "STNY-PN-713",
+    "category": "Stationery",
+    "price": 120,
+    "quantity": 40,
+    "reorderLevel": 20,
+    "supplier": "Cello Pens"
+  },
+  {
+    "name": "Executive Hardbound Notebook",
+    "sku": "STNY-NB-822",
+    "category": "Stationery",
+    "price": 250,
+    "quantity": 5,
+    "reorderLevel": 10,
+    "supplier": "Classmate"
+  },
+  {
+    "name": "Steel Insulated Water Bottle",
+    "sku": "HOME-BT-901",
+    "category": "Home & Kitchen",
+    "price": 599,
+    "quantity": 22,
+    "reorderLevel": 10,
+    "supplier": "Milton"
+  }
+]
